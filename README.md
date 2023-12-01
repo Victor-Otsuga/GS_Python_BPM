@@ -16,6 +16,7 @@ caso haja alguma anomalia (40 BPM acima da média para a idade).
 Ao executar o arquivo Main.exe, a idade so usuário é requisitada, atualmente o sistema roda com um batimento cárdiaco
 pré definido, mas ao ser conectado a um ESP32, conseguirá tratar as informações reais do usuário.
 
-##### integrantes do Grupo
+## integrantes do Grupo
 Victor Augusto RM 553518
+
 Vitor Moura    RM 553806
